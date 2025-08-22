@@ -45,6 +45,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mysql,flask,php,laravel" /><br>
 </div>
 
+<div align="center">
 ✨ _“Code hard, snack often, sleep… sometimes.”_ ✨  
 </div>
 </hr>
