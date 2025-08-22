@@ -12,8 +12,7 @@
 🔭 I’m currently working on **an ecommerce website**
 
  🌱 I’m currently learning **Tailwind, React**
- 
- ⚡ Fun fact **I'm currently into RPG games**
+
  
  </div>
 
