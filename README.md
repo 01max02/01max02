@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **an ecommerce website**
 
- 🌱 I’m currently learning **Tailwind, React**
+ 🌱 I’m currently learning **Tailwind & React**
 
  
  </div>
