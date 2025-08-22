@@ -47,6 +47,7 @@
 </div>
 
 <br/>
----
+<div align="center">
 
 ✨ _“Code hard, snack often, sleep… sometimes.”_ ✨  
+</div>
