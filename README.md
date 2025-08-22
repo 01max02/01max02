@@ -1,18 +1,11 @@
-# Hey there, I'm Precious ✨👋  
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-Welcome to my corner of GitHub where bugs magically turn into features 🪄🐛➡️🚀  
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Precious+Rondilla!;" />
+</h1>
 ---
 
-## 🌟 About Me
-- 🎨 Turning coffee ☕ into code 💻 since [Year you started coding]  
-- 🔭 Currently working on: **[Your cool project / learning something new]**  
-- 🧠 Always curious about **[Tech you're into]**  
-- 😎 Fun fact: I can [fun skill / random quirky fact about you]  
-
----
-
-## ⚡ Tech Stack (a.k.a My Superpowers 🦸‍♂️)
+## Tech Stack 
 ### Languages & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -25,7 +18,6 @@ Welcome to my corner of GitHub where bugs magically turn into features 🪄🐛�
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
