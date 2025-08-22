@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **ecommerce website**
+🔭 I’m currently working on **UI & Frontend Projects**
 
  🌱 I’m currently learning **Tailwind & React**
 
