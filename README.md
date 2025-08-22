@@ -52,4 +52,4 @@
 
 ✨ _“Code hard, snack often, sleep… sometimes.”_ ✨  
 </div>
-</div>hr>
+</hr>
